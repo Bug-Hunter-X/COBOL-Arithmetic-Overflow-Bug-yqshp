@@ -1,0 +1,1 @@
+This repository contains a demonstration of an arithmetic overflow bug in a COBOL program and its solution. The bug arises from incrementing a numeric variable beyond its defined size. The solution involves using a larger data type or implementing overflow handling.
